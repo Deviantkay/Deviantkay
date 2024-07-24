@@ -3,7 +3,9 @@
 
 - 🔭 I’m currently working on **Javascript Project**
 
-- 🌱 I’m currently learning **on Skilvul #Tech4Impact and Riau University**
+- 🌱 I’m currently learning **on Riau University**
+
+- 🏆 Rank 1 Demo Day Web Dev and Top 11 Demo day UI/UX Design Mastery at Skilvul #Tech4Impact
 
 - 👨‍💻 All of my Design projects are available at [http://adidtiyaputra.netlify.app/](http://adidtiyaputra.netlify.app/)
 
