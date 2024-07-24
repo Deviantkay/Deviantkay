@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my Design projects are available at [http://adidtiyaputra.netlify.app/](http://adidtiyaputra.netlify.app/)
 
-- 💬 Ask me about **C++, Java, HTML, JS, CSS**
+- 💬 Ask me about **C++, Java, HTML, JS, CSS, Laravel, Next Js**
 
 - 📫 How to reach me **adidtyaputra@gmail.com**
 
