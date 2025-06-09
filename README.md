@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Adidtiya Putra Caniago</h1>
+<h1 align="center">Hi 👋, I'm Glyphiez Kay</h1>
 <h3 align="center">A Designer, OOP and Front End Lover From Indonesia</h3>
 
 - 🔭 I’m currently working on **Javascript Project**
@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my Design projects are available at [http://adidtiyaputra.netlify.app/](http://adidtiyaputra.netlify.app/)
 
-- 💬 Ask me about **C++, Java, HTML, JS, CSS, Laravel, Next Js**
+- 💬 I Learn **C++, Java, HTML, JS, CSS, Larave**
 
 - 📫 How to reach me **adidtyaputra@gmail.com**
 
