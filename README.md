@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my Design projects are available at [http://adidtiyaputra.netlify.app/](http://adidtiyaputra.netlify.app/)
 
-- 💬 I Learn **C++, Java, HTML, JS, CSS, Larave**
+- 💬 I Learn **C++, Java, HTML, JS, CSS, Laravel**
 
 - 📫 How to reach me **adidtyaputra@gmail.com**
 
